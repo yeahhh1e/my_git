@@ -1,0 +1,21 @@
+https://git-scm.com/download/win : 깃 다운로드
+
+$ git init
+$ git config --global user.name "yeahhh1e"
+$ git config --global user.email "cakejuuu@gmail.com"
+
+$git add my_text.txt
+$ git comit -m " 이 게 최 종 "
+$ git comit -m " 이 게 진 짜 최 종 "
+
+$ git log 
+$ git checkout 파일 앞의 7자리 수동타이핑 // 이 버전으로 파일 바뀌게 됨
+$ git checkout - // 제일 최신 버전으로 돌아갈 수 있음
+
+$ git pull origin master
+
+$ git checkout -b my_git
+$ git push origin my_git
+
+
+
